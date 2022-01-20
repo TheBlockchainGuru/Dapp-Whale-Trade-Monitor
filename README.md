@@ -1,1 +1,1 @@
-# Whale-Trader-Monitor
+Whale Monitor
